@@ -17,16 +17,16 @@ Using Postman
 ![image](https://user-images.githubusercontent.com/73607151/163025252-bd3b1459-0633-4c4e-93c6-f668224a6972.png)
 
    # For finding a data by name
-     ![image](https://user-images.githubusercontent.com/73607151/163025576-972e9413-e261-41e6-92be-a79728e23b6a.png)
+![image](https://user-images.githubusercontent.com/73607151/163025576-972e9413-e261-41e6-92be-a79728e23b6a.png)
      
    # For data not foud
-     ![image](https://user-images.githubusercontent.com/73607151/163025892-8eaf5257-30ad-4a3a-bec8-5447acb933b4.png)
+![image](https://user-images.githubusercontent.com/73607151/163025892-8eaf5257-30ad-4a3a-bec8-5447acb933b4.png)
      
    # For editting the data
-     ![image](https://user-images.githubusercontent.com/73607151/163025665-395f8463-3e5d-4898-999a-1c267d4c84cf.png)
+![image](https://user-images.githubusercontent.com/73607151/163025665-395f8463-3e5d-4898-999a-1c267d4c84cf.png)
      
    # For deleting the data
-     ![image](https://user-images.githubusercontent.com/73607151/163025786-7ae04b27-2bdf-44ee-865a-bbf08ff98528.png)
+![image](https://user-images.githubusercontent.com/73607151/163025786-7ae04b27-2bdf-44ee-865a-bbf08ff98528.png)
 
 
 
