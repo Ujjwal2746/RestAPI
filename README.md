@@ -14,7 +14,7 @@ contains this string and return one or more servers found. Return 404 if nothing
 Using Postman
 
    # For Getting data
-     ![image](https://user-images.githubusercontent.com/73607151/163025252-bd3b1459-0633-4c4e-93c6-f668224a6972.png)
+![image](https://user-images.githubusercontent.com/73607151/163025252-bd3b1459-0633-4c4e-93c6-f668224a6972.png)
 
    # For finding a data by name
      ![image](https://user-images.githubusercontent.com/73607151/163025576-972e9413-e261-41e6-92be-a79728e23b6a.png)
